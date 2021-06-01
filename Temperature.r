@@ -18,3 +18,5 @@ dimnames(tas) <- list("E" = ncvar_get(nc, "projection_x_coordinate"),
                       "date" = substr(nc.get.time.series(nc, "tas"),1,10))  # label the dimensions of your array with the dimensions of the netcdf - this means that you can refer to them by E/N/date
 
 head(dimnames(tas)$date); tail(dimnames(tas)$date) # dates are stored as a date-time string: we're only really interested in the date, so we use 'substring' to extract the date only
+
+nc_close(nc); remove(nc)
