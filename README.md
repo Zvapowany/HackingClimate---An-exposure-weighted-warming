@@ -19,6 +19,6 @@ As a result we have obtained linear plots showing population weighted and area w
 
 a) [Mean temperature projections](Mean_temperature_projection.md)
 
-b) [Mean maximum temperature projections](Mean_temperature_projection.md)
+b) [Mean maximum temperature projections](Max_temperature_projection.md)
 
 c) [Mean minimum temperature projections](Min_temperature_projection.md)
