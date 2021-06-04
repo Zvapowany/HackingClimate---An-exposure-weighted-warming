@@ -27,3 +27,20 @@ c) [Mean minimum temperature projections](Min_temperature_projection.md)
 The code was entirely written in R. 
 
 For it to work it requires installation of several packages:
+
+```
+library(raster)   
+library(sf)
+library(sp)
+library(ncdf4)
+library(ggplot2)
+library(rgdal)
+library(rlang)
+library(dplyr)
+library(lubridate)
+library(zoo)
+library(stringr)
+library(tidyverse) #include readr
+library(ggthemes)
+library(ggpubr)
+```
