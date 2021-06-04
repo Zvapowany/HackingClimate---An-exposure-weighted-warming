@@ -22,3 +22,14 @@ a) [Mean temperature projections](Mean_temperature_projection.md)
 b) [Mean maximum temperature projections](Max_temperature_projection.md)
 
 c) [Mean minimum temperature projections](Min_temperature_projection.md)
+
+'''
+###############################################################################
+#   TEMPERATURE PROJECTIONS
+###############################################################################
+
+tasmin.nc <- nc_open("/nfs/cfs/home4/rejb/rejbypa/UKCP18_R/mon/tasmin_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc")
+print(tasmin.nc)
+names(tasmin.nc$var) #"tasmin"
+tasmin <- brick("/nfs/cfs/home4/rejb/rejbypa/UKCP18_R/mon/tasmin_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc")
+'''
