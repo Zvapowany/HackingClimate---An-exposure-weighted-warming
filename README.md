@@ -21,4 +21,4 @@ a) [Mean temperature projections](Mean temperature projection.md)
 
 b) [Mean maximum temperature projections]()
 
-c) [Mean minimum temperature projections]()
+c) [Mean minimum temperature projections](Min_temperature_projection.md)
