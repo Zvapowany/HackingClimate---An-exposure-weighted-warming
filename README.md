@@ -17,8 +17,8 @@ In order to calculate population-weighted average anomalies, we used population 
 
 As a result we have obtained linear plots showing population weighted and area weighted temperature projections for UK, as well as individual countries of UK (England, Northern Ireland, Scotland, Wales):
 
-a) [Mean temperature projections](Mean temperature projection.md)
+a) [Mean temperature projections](Mean_temperature_projection.md)
 
-b) [Mean maximum temperature projections]()
+b) [Mean maximum temperature projections](Mean_temperature_projection.md)
 
 c) [Mean minimum temperature projections](Min_temperature_projection.md)
