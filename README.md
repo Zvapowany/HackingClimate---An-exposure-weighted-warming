@@ -13,7 +13,7 @@ In order to calculate population weighted temperature anomalies we used UK Clima
 3. Minimum air temperature at 1.5m (°C)
        
 In order to obtain meaningful results we used monthly data to calculate temperature anomalies compared to historical baseline (1980-2000). 
-In order to calculate population-weighted average anomalies, we used population estimations from 2000 onward.
+In order to calculate population-weighted average anomalies, we used population estimations from year 2000 onward.
 
 As a result we have obtained linear plots showing population weighted and area weighted temperature projections for UK, as well as individual countries of UK (England, Northern Ireland, Scotland, Wales):
 
