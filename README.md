@@ -24,7 +24,10 @@ b) [Mean maximum temperature projections](Max_temperature_projection.md)
 c) [Mean minimum temperature projections](Min_temperature_projection.md)
 
 ## Code
-The code was entirely written in .R. We used NC data that was converted to RasterBricks.
+The code was entirely written in R. 
+
+We used NC data that was converted to RasterBricks.
+
 The packages that were used are listed bellow:
 ```
 library(raster)   
